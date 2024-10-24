@@ -1,0 +1,86 @@
+[
+    {
+        "id": 1,
+        "name": "Coca",
+        "price": 5,
+        "id_category": 3,
+        "description": "Bien frais !"
+    },
+    {
+        "id": 2,
+        "name": "Fanta",
+        "price": 5,
+        "id_category": 3,
+        "description": "Orange fun !"
+    },
+    {
+        "id": 3,
+        "name": "orangina",
+        "price": 5,
+        "id_category": 3,
+        "description": "Mieux secouer le monde !"
+    },
+    {
+        "id": 4,
+        "name": "Salade césar",
+        "price": 7,
+        "id_category": 1,
+        "description": "Raconter des salades !"
+    },
+    {
+        "id": 5,
+        "name": "Burrata ",
+        "price": 6,
+        "id_category": 1,
+        "description": "oh la vache !"
+    },
+    {
+        "id": 6,
+        "name": "soupe chaude",
+        "price": 5,
+        "id_category": 1,
+        "description": "rechauffe ton coeur"
+    },
+    {
+        "id": 7,
+        "name": "pates carbonarra",
+        "price": 12,
+        "id_category": 2,
+        "description": "Buen degustazione !"
+    },
+    {
+        "id": 8,
+        "name": "souris d'agneau",
+        "price": 14,
+        "id_category": 2,
+        "description": "Suivi de son accompagnement !"
+    },
+    {
+        "id": 9,
+        "name": "Yassa",
+        "price": 13,
+        "id_category": 2,
+        "description": "senegal rek !"
+    },
+    {
+        "id": 12,
+        "name": "Creme brulé ",
+        "price": 6,
+        "id_category": 4,
+        "description": ""
+    },
+    {
+        "id": 13,
+        "name": "thé gourmand",
+        "price": 7,
+        "id_category": 4,
+        "description": "chaque gorgée bouchée raconte une histoire"
+    },
+    {
+        "id": 14,
+        "name": "Tiramisu revisité",
+        "price": 5,
+        "id_category": 4,
+        "description": "un nuage de douceur"
+    }
+]
